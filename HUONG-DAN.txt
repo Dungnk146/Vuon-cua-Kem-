@@ -1,0 +1,5 @@
+ỨNG DỤNG "Vườn học nhỏ – Kem" (PWA)
+Gồm: index.html, sw.js, manifest.webmanifest, thư mục icons. Giữ nguyên cùng một thư mục khi tải lên.
+Mở đường dẫn của thư mục này trên điện thoại hoặc máy tính bảng, chọn "Thêm vào màn hình chính".
+Dữ liệu học lưu trong trình duyệt của thiết bị, không đồng bộ giữa các thiết bị. Dùng nút Sao lưu trong mục Bố mẹ để lưu tệp.
+Mỗi lần cập nhật: thay index.html và đổi số ở dòng đầu sw.js (v18-1 -> v18-2).
